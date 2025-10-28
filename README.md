@@ -154,11 +154,7 @@ Sadia Sultana Chowa¹,*, Riasad Alvi², Subhey Sadi Rahman², Md Abdur Rahman²,
 - Mohaimenul Azam Khan Raiaan: mraiaan191228@bscse.uiu.ac.bd
 - Sami Azam: sami.azam@cdu.edu.au
 
----
 
-## 🤝 Contributing
-
-We welcome contributions and feedback! Please open an issue or submit a pull request with suggestions for improvements.
 
 ---
 
