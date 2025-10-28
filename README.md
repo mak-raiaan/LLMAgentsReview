@@ -162,9 +162,3 @@ Sadia Sultana Chowa¹,*, Riasad Alvi², Subhey Sadi Rahman², Md Abdur Rahman²,
 
 - [arXiv Paper](https://arxiv.org/abs/2508.17281)
 - [GitHub Repository](https://github.com/mak-raiaan/LLMAgentsReview)
-
----
-
-<div align="center">
-  <p><em>⭐ If you find this repository helpful, please give it a star!</em></p>
-</div>
